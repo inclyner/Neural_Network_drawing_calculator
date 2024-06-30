@@ -1,4 +1,4 @@
-# Year 2022/2023
+# Matlab neural network- > recognizes digits and mathematical operators for computation .
 ## Bachelor's Degree in Computer Engineering
 ### Knowledge and Reasoning
 #### Practical Work Report
@@ -50,6 +50,7 @@ Used to train the network with 5 images, achieving an overall accuracy of 81%.
 
 ### 3.2. Train Folder
 This folder hosted most tests with different configurations:
+
 #### 3.2.1 Single Model Training: Numbers + Operators
 The best configuration included:
 - Number of hidden layers: 1

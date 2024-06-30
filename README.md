@@ -1,4 +1,3 @@
-```markdown
 # Year 2022/2023
 ## Bachelor's Degree in Computer Engineering
 ### Knowledge and Reasoning
@@ -82,4 +81,4 @@ Parameter configuration plays a crucial role in neural network performance, vary
 ## 6. Bibliography
 Include relevant sources and references here.
 
-```
+

@@ -73,12 +73,11 @@ The configuration 3 showed the highest precision compared to the single model tr
 Created datasets for each digit and operator, consisting of 3 images each, processed into binary matrices similar to the "Start" and "Train1" images. Classification using the best neural network configuration achieved 90% success for numbers and 40% for operators.
 
 ## 4. Graphical Interface
-The application allows loading data from datasets individually, detecting characters and functioning as a simple calculator, as shown in Figure X.
+The application allows loading data from datasets individually, detecting characters and functioning as a simple calculator.
+![image](https://github.com/inclyner/Neural_Network_drawing_calculator/assets/84443911/d1502805-1c39-44f5-b67b-bd60f5f3abd7)
+
 
 ## 5. Conclusion
 Parameter configuration plays a crucial role in neural network performance, varying based on the specific problem. Proper image preprocessing is vital to focus on relevant character features. In summary, this neural network project was successful in terms of understanding and applying concepts, and in developing networks with satisfactory performance.
-
-## 6. Bibliography
-Include relevant sources and references here.
 
 
